@@ -7,4 +7,4 @@ services:
     volumes:
       - .:/code
     ports:
-      - "8100:91"
+      - "91:91"
